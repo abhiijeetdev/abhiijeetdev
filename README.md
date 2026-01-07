@@ -1,3 +1,41 @@
-# 💫 About Me:
- 💫 Abhijeet | Red Team Operator (Adversary Emulation) <br><br>Hey there 👋  <br>I’m **Abhijeet**, a focused learner building mastery in **AI, Machine Learning, and Cybersecurity**.  <br>I believe in creating systems that *think, adapt, and evolve* — not just run code.  <br>Currently sharpening my skills in: <br><br>- 🧠 **Python**, **Machine Learning**, **Deep Learning**  <br>- 💻 **AI System Design** and **Automation Projects**  <br>- 🔐 **Cybersecurity** & Ethical Hacking fundamentals  <br>- ⚙️ Exploring **Linux**, **DevOps**, and **System-level Engineering**  <br>
+<h1 align="left">💫 About Me:</h1>
 
+###
+
+<h2 align="left">🧠Red team Operator [Adversary Emulation]</h2>
+
+###
+
+<h3 align="left">🔍Understanding systems by simulating real adversaries.<br>Interested in stealth, tradecraft, and practical AI in security.<br>The work speaks for itself.</h3>
+
+###
+
+<h3 align="left">Focused on mastering the fundamentals below.</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h1 align="left">🔐 Reachable via XMPP Only.<br>XMPP address legion@movim.eu</h1>
+
+###

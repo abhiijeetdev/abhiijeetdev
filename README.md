@@ -36,6 +36,9 @@
 
 ###
 
-<h1 align="left">🔐 Reachable via XMPP Only.<br>XMPP address legion@movim.eu</h1>
+<h1 align="left"> 📧 Professional contact via email  
+  
+🔐 Secure communication available upon request
+</h1>
 
 ###

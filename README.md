@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🔍Understanding systems by simulating real adversaries.<br>Interested in stealth, tradecraft, and practical AI in security.<br>The work speaks for itself.</h3>
+<h3 align="left">🔍Understanding systems by simulating real adversaries.<br>Interested in stealth, tradecraft, and practical AI in security.<br>Focused on building understanding through hands-on work.</h3>
 
 ###
 

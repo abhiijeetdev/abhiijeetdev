@@ -1,44 +1,16 @@
-<h1 align="left">💫 About Me:</h1>
+# 0x0WizA
 
-###
+**Security Researcher | Linux Specialist**
+*Focused on Malware Dev (C/Rust), Reverse Engineering, and Adversarial AI.*
 
-<h2 align="left">🧠Red team Operator [Adversary Emulation]</h2>
+---
 
-###
+### 🛡️ Operational Baseline
+- **OS:** CachyOS (Arch-based) | **Shell:** Fish
+- **Hardware:** RTX 3060 (Local LLM & Password Cracking Lab)
+- **Security:** GPG-Signed Commits | SSH-only Auth | NextDNS Managed
 
-<h3 align="left">🔍Understanding systems by simulating real adversaries.<br>Interested in stealth, tradecraft, and practical AI in security.<br>Focused on building understanding through hands-on work.</h3>
-
-###
-
-<h3 align="left">Focused on mastering the fundamentals below.</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h1 align="left"> 📧 Professional contact via email  
-  
-🔐 Secure communication available upon request
-</h1>
-
-###
+### 🛠️ Current Research
+- **Exploit Dev:** Analyzing heap spray techniques and UAC bypasses.
+- **Maldev:** Researching process injection in Rust.
+- **Networking:** CCNA-level routing & protocol analysis.
